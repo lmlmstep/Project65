@@ -2,6 +2,10 @@
 #include "Test.h"
 using namespace std;
 
+void Print()
+{
+
+}
 
 
 int main()
