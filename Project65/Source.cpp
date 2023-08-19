@@ -2,7 +2,10 @@
 #include "Test.h"
 using namespace std;
 
+void Some()
+{
 
+}
 
 int main()
 {
