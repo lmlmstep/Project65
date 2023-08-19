@@ -16,4 +16,5 @@ int main()
 	obj.Output();
 	int a;
 	int b;
+	Test obj2;
 }
