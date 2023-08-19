@@ -13,6 +13,7 @@ int main()
 	Test obj;
 	obj.Set(100);
 	obj.Output();
-	int a;
-	int b;
+	int a = 10;
+	int b = 20;
+
 }
