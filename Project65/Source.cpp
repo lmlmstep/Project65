@@ -10,4 +10,6 @@ int main()
 	Test obj;
 	obj.Set(100);
 	obj.Output();
+	int a;
+	int b;
 }
